@@ -3,10 +3,10 @@
 ## Project Overview
 This project is an end-to-end financial data analytics pipeline that collects real-time stock market data across multiple sectors and transforms it into structured, analysis-ready datasets using Python, Yahoo Finance, and MySQL.
 
-![Power Bi Dashboard](images/MM_bi_dashboard)
+
 
 The system acts as a Multi-Sector Market and Momentum Intelligence Engine designed to identify market opportunities across Technology, Finance, Healthcare, and Energy sectors by combining price data with technical indicators to generate automated trade signals.
-
+![Power Bi Dashboard](images/MM_bi_dashboard)
 ---
 
 ## Technical Stack
