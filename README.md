@@ -6,7 +6,7 @@ This project is an end-to-end financial data analytics pipeline that collects re
 
 
 The system acts as a Multi-Sector Market and Momentum Intelligence Engine designed to identify market opportunities across Technology, Finance, Healthcare, and Energy sectors by combining price data with technical indicators to generate automated trade signals.
-![Power Bi Dashboard](images/MM_Bi_Dashboard)
+![Power Bi Dashboard](images/bi_dashboard.png)
 ---
 
 ## Technical Stack
